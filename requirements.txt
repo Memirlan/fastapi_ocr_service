@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+surya-ocr
+torch
+PyMuPDF
+reportlab
+psycopg2-binary
+SQLAlchemy
+python-multipart
